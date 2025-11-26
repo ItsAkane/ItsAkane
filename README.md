@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="c sharp logo"  />
   <img width="12" />
